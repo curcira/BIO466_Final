@@ -38,6 +38,7 @@ Replace `script_name.py` with the actual name of the script.
 - **Choose File Button**: Select a FASTA file for analysis.
 - **Table Panel**: Displays sequence information in a tabular format.
 - **Sequence Display**: Shows the full sequence with a scrollbar.
+- **Spacer**: Displays sequence in a ruler format.
 - **Motif Search**: Search for a specific motif in the sequence.
 - **CpG Island Detection**: Detect CpG islands in the sequence.
 - **Homopolymer Detection**: Identify homopolymers in the sequence.
