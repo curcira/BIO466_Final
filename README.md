@@ -12,7 +12,7 @@ This Python script provides a graphical user interface (GUI) for viewing and ana
 
 - Python 3.x
 - Tkinter
-- pymysql
+- pymysql (if using verison with database)
 
 ## Installation
 
@@ -33,6 +33,9 @@ python script_name.py
 Replace `script_name.py` with the actual name of the script.
 
 ## Features
+
+### Database
+- **DB Version**: Will display information of sequences in database
 
 ### Fasta Viewer GUI
 - **Choose File Button**: Select a FASTA file for analysis.
