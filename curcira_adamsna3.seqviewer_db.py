@@ -217,9 +217,7 @@ class FastaViewer(tk.Tk):
             self.seqDict[sequence_name] = sequence
 
             self.tree.insert("", "end", values=(sequence_name, sequence_description, sequence_length, A_count, T_count, G_count, C_count, GC_content))
-        cur.close()
-        del cur
-        db.close()
+        
 
     def on_tree_click(self, event):
         self.cpg_text.delete(1.0, tk.END)
