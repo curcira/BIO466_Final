@@ -27,7 +27,7 @@ This Python script provides a graphical user interface (GUI) for viewing and ana
 Run the script using the following command:
 
 ```bash
-python script_name.py
+python3 script_name.py
 ```
 
 Replace `script_name.py` with the actual name of the script.
